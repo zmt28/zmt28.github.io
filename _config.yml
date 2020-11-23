@@ -9,20 +9,20 @@ email: ziontaber@gmail.com
 website: https://zmt28.github.io
 
 # Social links
-# twitter_username: facespics
+# twitter_username: jekyll
 github_username:  zmt28
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: chillwildlife
+# instagram_username: jekyll
 linkedin_username: zion-taber
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: Images/IMG_3764.png
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Zion Taber and I am a Junior at Drexel University with an interest in big data, cloud computing, and consulting.
 
@@ -42,7 +42,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
    - Hiking
-   - 
+   - Hackathons
 
 
 # Footer

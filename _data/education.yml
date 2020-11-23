@@ -2,30 +2,24 @@
   name: University of Vermont
   dates: 2018-2020
   qualification: BS Business Administration
-  quote: Transferred halfway through degree.
+  quote: >
     
   description: | # this will include new lines to allow paragraphs
    - Cumulative GPA: 3.80/4.00
    - Deans List 2018-2020
+   - Transferred halfway through degree.
 
 - layout: left
   name: Drexel University
   dates: 2020-2022
   qualification: BS Business Administration
-  quote: Business Analytics and Management Information Systems Major
-   
-  description: | # this will include new lines to allow paragraphs
-    - Cumulative GPA: 3.94/4.00
-    - Deans List 2020-2022
-    
-- layout: left
-  name: AWS Certified Solutions Architect – Associate
-  dates: November 2020 - November 2023
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    <div data-iframe-width="250" data-iframe-height="150" data-share-badge-id="d9a4cb92-b6b8-4325-9611-278475d965d5" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
+    - Business Analytics and Management Information Systems Major
+    - Cumulative GPA: 3.94/4.00
+    - Deans List 2020-2022
+    
 - layout: left
   name: National Outdoor Leadership School
   dates: 2017
@@ -33,3 +27,11 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
+  
+- layout: left
+  name: AWS Certified Solutions Architect – Associate
+  dates: November 2020 - November 2023
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    <div data-iframe-width="250" data-iframe-height="150" data-share-badge-id="d9a4cb92-b6b8-4325-9611-278475d965d5" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>

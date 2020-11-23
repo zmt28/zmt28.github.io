@@ -22,7 +22,7 @@ linkedin_username: zion-taber
 
 # About Section
 # about_title: About Me
-about_profile_image: /_data/IMG_3764.png
+about_profile_image: _data/IMG_3764.png
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Zion Taber and I am a Junior at Drexel University studying business analytics and management information systems. I am passionate about using big data and cloud computing to create business value.
 
@@ -34,10 +34,10 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education & Certificates
+educaton_title: Education & Certificates
 
 # More Section
-# more_title: Skills
+more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
   - Python
   - SQL

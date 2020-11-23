@@ -5,3 +5,11 @@
   dates: Septmeber 2020 - Present
   quote: At Siemens Healthineers USA, our purpose is to enable healthcare providers to increase value by empowering them on their journey towards expanding precision medicine, transforming care delivery, and improving patient experience, all enabled by digitalizing healthcare.
   description: | # this will include new lines to allow paragraphs
+  
+- layout: left
+  company: Union Square Media
+  link: www.unionsquaremedia.com
+  job_title: Marketing Analyst Intern
+  dates: June 2019 - June 2020
+  quote: Utilizing the advertising technology we have developed, Union Square Media is able to scale its owned & operated brands to scale large verticals while maximizing the net profits.
+  description: | # this will include new lines to allow paragraphs 

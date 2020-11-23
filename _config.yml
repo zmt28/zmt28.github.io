@@ -39,12 +39,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
--Python
--SQL
--R
--Amazon Web Services
--Power BI
--Bash
+ -Python
+ -SQL
+ -R
+ -Amazon Web Services
+ -Power BI
+ -Bash
 
 # Footer
 footer_show_references: true

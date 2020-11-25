@@ -24,3 +24,11 @@
   dates: November 2020 - Present
   quote: Our mission is to provide ambitious and innovative undergraduate students the opportunity to develop their professional careers in the consulting industry through speaker series, case studies and networking opportunities.
   description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  company: Dragonhacks
+  link: www.siemens-healthineers.com
+  job_title: Organizer
+  dates: October 2020 - Present
+  quote: put quote here
+  description: | # this will include new lines to allow paragraphs

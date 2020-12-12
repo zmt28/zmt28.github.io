@@ -5,6 +5,10 @@
   dates: Septmeber 2020 - Present
   quote: At Siemens Healthineers USA, our purpose is to enable healthcare providers to increase value by empowering them on their journey towards expanding precision medicine, transforming care delivery, and improving patient experience, all enabled by digitalizing healthcare.
   description: | # this will include new lines to allow paragraphs
+    - Filtereed, extracted, and transformed data from over a million service desk incidents in <mark>ServiceNow</mark>.
+    - Analyzed data to create dashboard in <mark>PowerBI</mark> of intuitively displayed information used by management in negotiations of contracts worth over four hundred million dollars. 
+    - Developed new KPI's and SLA's to encourage good supplier behvior based on data analysis and 25 plus interviews conducted with internal employees and service providers. 
+    
   
 - layout: left
   company: Union Square Media

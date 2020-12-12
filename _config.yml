@@ -25,7 +25,18 @@ linkedin_username: zion-taber
 about_profile_image: IMG_3764.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Zion Taber and I am a Junior at Drexel University studying business analytics and management information systems. I am passionate about using big data and cloud computing to create business value. I'm active on campus as the president of the Drexel Consulting Group and as a coordinator for Dragonhacks, Drexel's student run hackathon.
-
+  I have worked with a range of different frameworks and technologies and I am always looking for opportunities to learn
+  with something new. The things that I currently have the most experience working with are:
+  <mark>R</mark>,
+  <mark>Python</mark>,
+  <mark>SQL</mark>,
+  <mark>Bash</mark>,
+  <mark>PowerBI</mark>,
+  <mark>Excel</mark>,
+  <mark>Docker</mark>,
+  <mark>Git</mark>,
+  <mark>Azure</mark> and
+  <mark>AWS</mark> services.
 
 # Projects Section
 # projects_title: Projects
